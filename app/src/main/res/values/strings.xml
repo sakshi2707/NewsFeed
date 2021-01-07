@@ -1,0 +1,5 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">NewsFeed</string>
+    <string name="share_article">Share Article</string>
+    <string name="share_msg" android:textStyle="bold">Checkout this news from My NewsFeed App :- </string>
+</resources>
